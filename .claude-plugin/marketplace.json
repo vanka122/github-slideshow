@@ -1,0 +1,10 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "vanka122" },
+  "plugins": [
+    { "name": "team", "source": "./mods/team", "description": "Панель «Команда»: агенты сессии, сообщения между ними и конвейер поиск → письма → проверка" },
+    { "name": "model-router", "source": "./mods/model-router", "description": "Выбор Haiku, Sonnet или Opus по сложности задачи, с показом причины" },
+    { "name": "morning", "source": "./mods/morning", "description": "Панель «Доброе утро»: дела, письма для ответа, проекты с прогрессом" },
+    { "name": "helpers", "source": "./mods/helpers", "description": "Счётчик трат за день, кнопка «Следующий шаг», напоминание сохранить работу" }
+  ]
+}

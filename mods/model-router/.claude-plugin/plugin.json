@@ -1,0 +1,1 @@
+{ "name": "model-router", "version": "0.1.0", "description": "Оценивает сложность каждой задачи и отправляет её на Haiku, Sonnet или Opus, показывая выбор и причину", "types": "./types/index.d.ts" }
