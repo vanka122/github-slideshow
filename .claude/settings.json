@@ -1,0 +1,27 @@
+{
+  "extraKnownMarketplaces": {
+    "thedotmack": {
+      "source": {
+        "source": "github",
+        "repo": "thedotmack/claude-mem"
+      }
+    },
+    "one-skill-to-rule-them-all": {
+      "source": {
+        "source": "github",
+        "repo": "rebelytics/one-skill-to-rule-them-all"
+      }
+    },
+    "headroom-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "headroomlabs-ai/headroom"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "claude-mem@thedotmack": true,
+    "task-observer@one-skill-to-rule-them-all": true,
+    "headroom@headroom-marketplace": true
+  }
+}
